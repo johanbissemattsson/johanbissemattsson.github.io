@@ -19,3 +19,6 @@ github_username:  johanbissemattsson
 
 # Build settings
 markdown: kramdown
+
+# Outputting
+permalink: :title
